@@ -62,4 +62,13 @@ clean, responsive, and user-friendly web experiences.
 
 ![](https://komarev.com/ghpvc/?username=noyonAli1&label=Profile%20views&color=0e75b6&style=flat)
 
+## 💡 Featured Projects
 
+| Project | Description | Tech Stack | Live | Code |
+|-------|-------------|------------|------|------|
+| 📘 English Janala | Interactive Vocabulary Learning App | HTML, Tailwind, JS | Live | Code |
+| 💸 Payoo Money Transfer | Modern Banking UI | HTML, CSS, JS | Live | Code |
+| 🍵 Tea House Landing Page | Responsive Landing Page | HTML, Tailwind | Live | Code |
+| 🎆 Realistic Fireworks | JS Animation Project | HTML, CSS, JS | Live | Code |
+| 🌸 Flower Animation | Creative CSS Animation | HTML, CSS | Live | Code |
+| 🏋️ Fitness Web UI | Modern Fitness Website | HTML, CSS | Live | Code |
