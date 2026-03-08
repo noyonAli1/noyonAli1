@@ -4,7 +4,7 @@
 
 
 
----
+
 
 ## 👋 About Me
 
@@ -16,7 +16,7 @@ clean, responsive, and user-friendly web experiences.
 - ⚡ Improving **logic, performance & best practices**
 - 🔥 Goal: **Professional Frontend Engineer**
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -33,7 +33,7 @@ clean, responsive, and user-friendly web experiences.
 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -44,22 +44,22 @@ clean, responsive, and user-friendly web experiences.
 <img src="https://streak-stats.demolab.com?user=noyonAli1&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
----
+
 
 ## 📈 GitHub Activity Graph
 
 [![Noyon Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noyonAli1&theme=tokyo-night)](https://github.com/noyonAli1)
 
----
+
 
 ## 🏆 GitHub Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=noyonAli1&theme=tokyonight&no-frame=true&row=1)
 
----
+
 
 ## 👁 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=noyonAli1&label=Profile%20views&color=0e75b6&style=flat)
 
----
+
