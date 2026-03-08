@@ -20,7 +20,7 @@ clean, responsive, and user-friendly web experiences.
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
@@ -39,8 +39,28 @@ clean, responsive, and user-friendly web experiences.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=noyonAli1&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=noyonAli1&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noyonAli1&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noyonAli1&theme=tokyonight" height="170"/>
 
 </p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Noyon Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noyonAli1&theme=tokyo-night)](https://github.com/noyonAli1)
+
+---
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=noyonAli1&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+## 👁 Profile Views
+
+![](https://komarev.com/ghpvc/?username=noyonAli1&label=Profile%20views&color=0e75b6&style=flat)
+
+---
