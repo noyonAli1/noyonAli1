@@ -39,12 +39,11 @@ clean, responsive, and user-friendly web experiences.
 
 <p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=noyonAli1&show_icons=true&theme=tokyonight" height="170"/>
+
 <img src="https://streak-stats.demolab.com?user=noyonAli1&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noyonAli1&theme=tokyonight" height="170"/>
-
 </p>
-
 ---
 
 ## 📈 GitHub Activity Graph
