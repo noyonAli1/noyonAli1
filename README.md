@@ -1,16 +1,25 @@
-## Hi there 👋
+<p aling="center">
+  <img width="1536" height="1024" alt="Standing under the stars_ Noyon Raj" src="https://github.com/user-attachments/assets/da56705b-a179-4325-871c-277bb0cfb989" />
+</p>
 
-<!--
-**noyonAli1/noyonAli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">Hi 👋 I'm Noyon Raj</h1>
+
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">
+JavaScript • React • Web
+</p>
+
+---
+
+### 📧 Email
+noyon.ali713703@gmail.com
+
+### 📞 Phone
+01304868130
+
+### 🌐 Facebook
+Noyon Raj
